@@ -8,6 +8,8 @@ body {
   margin: 0px;
 }
 
+/*Tag class changes*/
+
 h1 {
   text-align: center;
   font-size: 65px;
@@ -32,13 +34,13 @@ p {
   margin-left: 2.5%;
   font-size: 20px;
 }
-/* Add a black background color to the top navigation */
+/*Tag background colour on top nav*/
 .topnav {
   background-color: #ebd45e;
   overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
+/*Style link inside nav*/
 .topnav a {
   float: left;
   background-color: #ebd45e;
@@ -49,7 +51,7 @@ p {
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
+/*Change the color of links on hover*/
 .topnav a:hover {
   background-color: #5e1bd1;
   color: #ebd45e;
@@ -60,10 +62,3 @@ p {
   background-color: #000000;
   color: #ebd45e;
 }
-/* Change h1*/
-/* Change h2*/
-/* Change my Introduction*/
-/*Change my Skills */
-/*Changein  my Skills blablabla*/
-/*Change my Skills */
-/*Change Footer */
